@@ -7,8 +7,8 @@ public class Main {
 //        rwOnly.privateVal = 10;
 //        System.out.println(rwOnly.privateVal);
 //        java: privateVal has private access in com.driver.RWOnly
-        rwOnly.setPrivateVal(10);
-        System.out.println(rwOnly.getPrivateVal());
+        rwOnly.setName(10);
+//        System.out.println(rwOnly.getPrivateVal());
     }
 
 }

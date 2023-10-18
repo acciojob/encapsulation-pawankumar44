@@ -1,14 +1,14 @@
 package com.driver;
 
 public class RWOnly {
-    private  int privateVal = 5;
+    private  int name = 5;
 
-    public int getPrivateVal() {
-        return privateVal;
+    public int getName() {
+        return name;
     }
 
-    public void setPrivateVal(int privateVal) {
-        this.privateVal = privateVal;
+    public void setName(int privateVal) {
+        this.name = name;
     }
 
 
