@@ -7,8 +7,8 @@ public class RWOnly {
         return name;
     }
 
-    public void setName(String privateVal) {
-        this.name = privateVal;
+    public void setName(String privateVall) {
+        this.name = privateVall;
     }
 
 
